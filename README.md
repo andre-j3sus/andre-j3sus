@@ -8,5 +8,5 @@ I mostly code in Kotlin📱, but sometimes I also do some Python🐍 projects.
 
 On my profile you can find some of the small projects I've developed since I started this journey to become the best software developer I can be 👌.
 
-You also can check my [Website🌐](https://sites.google.com/view/andre-jesus) and [LinkedIn🔗](www.linkedin.com/in/andre-jesus-engineering).
+You also can check my [Website🌐](https://sites.google.com/view/andre-jesus) and [LinkedIn🔗](https://www.linkedin.com/in/andre-jesus-engineering).
  
