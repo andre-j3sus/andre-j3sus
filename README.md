@@ -3,10 +3,12 @@
 Hey there 👋,
 
 My name is André Jesus, but my friends call me Jesus😃. 
-I'm a software engineering student in Portugal, currently looking to learn more about programming and software development. 
-I mostly code in Kotlin📱, but sometimes I also do some Python🐍 projects.
+I'm a Software Engineering student in Portugal, currently looking to learn more about programming and software development.
+I'm studying at [ISEL](https://www.isel.pt/en/) taking the Bachelor in Computer Science and Computer Engineering.
 
-On my profile you can find some of the small projects I've developed since I started this journey to become the best software developer I can be 👌.
+I mainly code in Kotlin📱 and JavaScript🌐, but I'm always open to learning new languages and technologies.
+
+On my profile you can find some small projects I've developed since I started this journey to become the best software developer I can be 👌.
 
 You also can check my [Website🌐](https://sites.google.com/view/andre-jesus) and [LinkedIn🔗](https://www.linkedin.com/in/andre-jesus-engineering).
  
