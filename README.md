@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-- 🙋‍♂️ All about me is at **[My Website](https://andre-j3sus.github.io/)**🌐
+- 🙋‍♂️ All about me is at **[My Website](https://andre-j3sus.github.io/)** 🌐
 
 - 🔭 I’m currently working on `College Projects`🎓
 
