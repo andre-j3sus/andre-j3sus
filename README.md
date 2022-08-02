@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on `College Projects`🎓
 
-- 🌱 I’m currently studying `Concurrent Programming` and `Languages & Managed Runtimes` 
+- 🌱 I’m currently studying `Android` and `React` 
 
-- ⚡ Fun fact: I really like to `Workout`💪
+- ⚡ Fun facts: I really like to `Workout`💪, `Read Fantasy Books`🐉 and `Hear Rock Music`🤘
 
 ## 🛠️ Technologies and Tools I use:
 
