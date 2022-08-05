@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> I'm André Jesus!</h1>
 
-## 👨🏻‍💻 About Me:
+## 👨🏻‍💻 About Me
 
 - 🙋‍♂️ All about me is at **[My Website](https://andre-j3sus.github.io/)** 🌐
 
@@ -10,7 +10,7 @@
 
 - ⚡ Fun facts: I really like to `Workout`💪, `Read Fantasy Books`🐉 and `Hear Rock Music`🤘
 
-## 🛠️ Technologies and Tools I use:
+## 🛠️ Skills
 
 <p>
  <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" height="25px"/>
@@ -38,9 +38,15 @@
  <img alt="Ubunto" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="25px"/>
 </p>
 
-## 📊 My GitHub Data:
+## 📊 My GitHub Data
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Andre-J3sus&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Andre-J3sus&" alt="Andre-J3sus" />
+  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=andre-j3sus&theme=algolia" alt="7oSkaaa" /></p>
+  <p align="center">
+    <img alt="andre-j3sus's Github Stats" src="https://github-readme-stats.vercel.app/api?username=andre-j3sus&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andre-j3sus&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="andre-j3sus" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
 </div>
