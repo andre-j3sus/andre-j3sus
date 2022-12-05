@@ -31,8 +31,14 @@
 
 <div align="center">
   <p align="center">
-   <img src="https://skillicons.dev/icons?i=kotlin,java,spring,idea,androidstudio,vscode,js,nodejs,express,html,css,bootstrap,py,c,postgres,mongodb,git,github&perline=6" />
-  </p>  
+   <img src="https://skillicons.dev/icons?i=kotlin,java,spring,idea,androidstudio,vscode&perline=6" />
+   <br/>
+   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,materialui,html,css,bootstrap&perline=9" />
+   <br/>
+   <img src="https://skillicons.dev/icons?i=py,c,linux,bash&perline=4" />
+   <br/>
+   <img src="https://skillicons.dev/icons?i=postgres,mongodb,git,github&perline=6" />
+  </p> 
   <br/>
   <b>Note:</b> These are just a few tools that I have used in my academic and professional career and that I have some knowledge of how to use them.
   </p>
