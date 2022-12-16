@@ -1,10 +1,12 @@
 <h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> I'm André Jesus!</h1>
 
-## 👨🏻‍💻 About Me
+## 📌 About Me
 
-- 🙋‍♂️ All about me is at **[`My Website`](https://andre-j3sus.github.io/)** 🌐
+- 🌐 All about me is at **[`My Website`](https://andre-j3sus.github.io/)** 
 
-- 🔭 I’m currently working on `College Projects`🎓
+- 📄 You can check my resume [`Here`](https://www.canva.com/design/DAFUaHsRNDo/OUWh8boNosWQ3YeIp0tI6A/view?utm_content=DAFUaHsRNDo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+- 🔭 I’m currently working on `College Projects`
 
 - 🌱 I’m currently studying `Android` and `React` 
 
@@ -31,11 +33,11 @@
 
 <div align="center">
   <p align="center">
-   <img src="https://skillicons.dev/icons?i=kotlin,java,spring,idea,androidstudio,vscode&perline=6" />
+   <img src="https://skillicons.dev/icons?i=kotlin,java,spring,idea,androidstudio,vscode&perline=7" />
    <br/>
    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,materialui,html,css,bootstrap&perline=9" />
    <br/>
-   <img src="https://skillicons.dev/icons?i=py,c,linux,bash&perline=4" />
+   <img src="https://skillicons.dev/icons?i=py,c,linux,bash,docker&perline=5" />
    <br/>
    <img src="https://skillicons.dev/icons?i=postgres,mongodb,git,github&perline=6" />
   </p> 
