@@ -33,15 +33,27 @@
 
 <div align="center">
   <p align="center">
-   <img src="https://skillicons.dev/icons?i=kotlin,java,spring,idea,androidstudio,vscode&perline=7" />
+   <img src="https://skillicons.dev/icons?i=kotlin,java,js,ts,python,c&perline=6" />
    <br/>
-   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,materialui,html,css,bootstrap&perline=9" />
+   <b>Programming Languages</b>
+   <br/><br/>
+   <img src="https://skillicons.dev/icons?i=spring,nodejs,express,nginx,webpack&perline=5" />
    <br/>
-   <img src="https://skillicons.dev/icons?i=py,c,linux,bash,docker&perline=5" />
+   <b>Backend Development</b>
+   <br/><br/>
+   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,materialui&perline=5" />
    <br/>
-   <img src="https://skillicons.dev/icons?i=postgres,mongodb,git,github&perline=6" />
+   <b>Frontend Development</b>
+   <br/><br/>
+   <img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode,linux,bash,docker,git,github&perline=8" />
+   <br/>
+   <b>Tools & Technologies</b>
+   <br/><br/>
+   <img src="https://skillicons.dev/icons?i=postgres,mongodb&perline=2" />
+   <br/>
+   <b>Databases</b>
   </p> 
-  <br/>
+  <br/><br/>
   <b>Note:</b> These are just a few tools that I have used in my academic and professional career and that I have some knowledge of how to use them.
   </p>
 </div>
