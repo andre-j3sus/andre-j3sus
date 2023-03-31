@@ -37,11 +37,11 @@
    <br/>
    <b>Programming Languages</b>
    <br/><br/>
-   <img src="https://skillicons.dev/icons?i=spring,nodejs,express,nginx,webpack&perline=5" />
+   <img src="https://skillicons.dev/icons?i=spring,nodejs,express,nginx&perline=5" />
    <br/>
    <b>Backend Development</b>
    <br/><br/>
-   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,materialui&perline=5" />
+   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,materialui,webpack&perline=5" />
    <br/>
    <b>Frontend Development</b>
    <br/><br/>
