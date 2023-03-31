@@ -41,7 +41,7 @@
    <br/>
    <b>Backend Development</b>
    <br/><br/>
-   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,materialui,webpack&perline=5" />
+   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,materialui,webpack&perline=6" />
    <br/>
    <b>Frontend Development</b>
    <br/><br/>
