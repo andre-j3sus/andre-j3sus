@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on `College Projects`
 
-- 🌱 I’m currently studying `Android` and `React` 
+- 🌱 I’m currently studying `Cloud Computing`
 
 - 💬 Ask me about `Kotlin`
 
