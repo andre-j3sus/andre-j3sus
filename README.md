@@ -45,7 +45,7 @@
    <br/>
    <b>Frontend Development</b>
    <br/><br/>
-   <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,github,latex&perline=8" />
+   <img src="https://skillicons.dev/icons?i=docker,gcp,linux,bash,git,github,latex&perline=9" />
    <br/>
    <b>Tools & Technologies</b>
    <br/><br/>
