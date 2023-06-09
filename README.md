@@ -6,7 +6,7 @@
 
 - 📄 You can check my resume [`Here`](https://www.canva.com/design/DAFUaHsRNDo/OUWh8boNosWQ3YeIp0tI6A/view?utm_content=DAFUaHsRNDo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-- 🔭 I’m currently working on [`PHYLOViZ Web Platform`](https://github.com/bodybuilders-team/phyloviz-web-platform)
+- 🔭 I’m currently working on [`PHYLOViZ Web Platform`](https://github.com/phyloviz/phyloviz-web-platform)
 
 - 🌱 I’m currently studying `Cloud Computing`
 
