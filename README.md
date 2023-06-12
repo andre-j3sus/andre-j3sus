@@ -18,7 +18,7 @@
 
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://linkedin.com/in/andre-jesus-engineering">
+        <a style="margin-left: 10px;"  target="_blank" href="https://linkedin.com/in/andre-j3sus">
 		<img src="https://skillicons.dev/icons?i=linkedin"></a>
 	<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/15545640/andr%c3%a9-jesus">
 		<img src="https://skillicons.dev/icons?i=stackoverflow"></a>
