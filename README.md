@@ -2,17 +2,19 @@
 
 ## 📌 About Me
 
-- 🌐 All about me is at **[`My Website`](https://andre-j3sus.github.io/)** 
+Welcome to my profile! Here's a glimpse into who I am:
 
-- 📄 You can check my resume [`Here`](https://www.canva.com/design/DAFUaHsRNDo/OUWh8boNosWQ3YeIp0tI6A/view?utm_content=DAFUaHsRNDo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 🌐 For a comprehensive overview, visit my **[`Website`](https://andre-j3sus.github.io/)**.
 
-- 🔭 I’m currently working on [`PHYLOViZ Web Platform`](https://github.com/phyloviz/phyloviz-web-platform)
+- 📄 Take a look at my [`Resume`](https://www.canva.com/design/DAFUaHsRNDo/OUWh8boNosWQ3YeIp0tI6A/view?utm_content=DAFUaHsRNDo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink).
 
-- 🌱 I’m currently studying `Cloud Computing`
+- 🔭 I am currently involved in the development of the [`PHYLOViZ Web Platform`](https://github.com/phyloviz/phyloviz-web-platform) and am passionate about making meaningful contributions in the field.
 
-- 💬 Ask me about `Kotlin`
+- 🌱 My ongoing studies focus on `Cloud Computing & Computer Networks` as I strive to expand my knowledge and skills.
 
-- ⚡ Fun facts: I really like to `Workout`💪, `Read Fantasy Books`🐉 and `Hear Rock Music`🤘
+- 💬 Feel free to reach out to me for any questions or discussions related to `Kotlin` or `Web Development`.
+
+- ⚡ In my free time, you can find me engaging in activities that keep me energized and entertained, such as `Workout`💪, exploring captivating `Fantasy Books`🐉, and embracing the spirit of `Rock Music`🤘.
 
 ## 🤝 Connect with me 
 
