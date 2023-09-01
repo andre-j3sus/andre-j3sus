@@ -4,17 +4,17 @@
 
 Welcome to my profile! Here's a glimpse into who I am:
 
-- 🌐 For a comprehensive overview, visit my **[`Website`](https://andre-j3sus.github.io/)**.
+- 🌐 For a comprehensive overview, visit my **[`Website`](https://andre-j3sus.github.io/)**
 
-- 📄 Take a look at my [`Resume`](https://www.canva.com/design/DAFqHQqqaGk/Q2N2Mi5I6JUUgpeB4ugMaw/view).
+- 📄 Take a look at my [`Resume`](https://www.canva.com/design/DAFqHQqqaGk/Q2N2Mi5I6JUUgpeB4ugMaw/view)
 
-- 🔭 I am currently involved in the development of the [`PHYLOViZ Web Platform`](https://github.com/phyloviz/phyloviz-web-platform).
+- 🔭 I am currently involved in the development of the [`PHYLOViZ Web Platform`](https://github.com/phyloviz/phyloviz-web-platform)
 
-- 🌱 My ongoing studies focus on `Distributed Systems ☁️` and `Artificial Intelligence 🧠`.
+- 🌱 My ongoing studies focus on `Distributed Systems ☁️` and `Artificial Intelligence 🧠`
 
-- 💬 Feel free to reach out to me for any questions or discussions related to `Web Development`.
+- 💬 Feel free to reach out to me for any questions or discussions related to `Web Development`
 
-- ⚡ I find joy in `Travel✈️`, `Reading📖`, embracing the spirit of `Rock Music🤘`, and staying active through `Workouts💪`.
+- ⚡ I find joy in `Travel✈️`, `Reading📖`, embracing the spirit of `Rock Music🤘`, and staying active through `Workouts💪`
 
 ## 🤝 Connect with me 
 
