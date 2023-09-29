@@ -35,7 +35,7 @@ Welcome to my profile! Here's a glimpse into who I am:
 
 <div align="center">
   <p align="center">
-   <img src="https://skillicons.dev/icons?i=kotlin,java,js,ts,python,c&perline=6" />
+   <img src="https://skillicons.dev/icons?i=kotlin,java,js,ts,python,c,cs&perline=7" />
    <br/>
    <b>Programming Languages</b>
    <br/><br/>
