@@ -47,13 +47,14 @@ Welcome to my profile! Here's a glimpse into who I am:
    <br/>
    <b>Frontend Development</b>
    <br/><br/>
-   <img src="https://skillicons.dev/icons?i=docker,gcp,linux,bash,git,github,latex&perline=9" />
-   <br/>
-   <b>Tools & Technologies</b>
-   <br/><br/>
    <img src="https://skillicons.dev/icons?i=postgres,mongodb&perline=2" />
    <br/>
    <b>Databases</b>
+   <br/><br/>
+   <img src="https://skillicons.dev/icons?i=docker,gcp,linux,bash,git,github,latex&perline=9" />
+   <br/>
+   <b>Operating Systems, Cloud Infra & DevOps</b>
+   
   </p> 
   <br/><br/>
   <b>Note:</b> These are just a few tools that I have used in my academic and professional career and that I have some knowledge of how to use them.
