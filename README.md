@@ -4,54 +4,44 @@
 
 Welcome to my profile! Here's a glimpse into who I am:
 
-- 🌐 For a comprehensive overview, visit my **[`Website`](https://andre-j3sus.github.io/)**
-
-- 📄 Take a look at my [`Resume`](https://www.canva.com/design/DAFqHQqqaGk/Q2N2Mi5I6JUUgpeB4ugMaw/view)
-
-- 🔭 I am currently involved in the development of the [`PHYLOViZ Web Platform`](https://github.com/phyloviz/phyloviz-web-platform)
-
+- 🔬 I'm currently pursuing my MSc in  Computer Science and Engineering Student at [IST](https://tecnico.ulisboa.pt/en/)
 - 🌱 My ongoing studies focus on `Distributed Systems☁️` and `Cyber-Security🛡️`
-
+- 🎓 I hold a BSc in Computer Science and Engineering from [ISEL](https://www.isel.pt/en)
+- 🔭 I am currently involved in the development of the [`PHYLOViZ Web Platform🧬`](https://github.com/phyloviz/phyloviz-web-platform)
 - 💬 Feel free to reach out to me for any questions or discussions related to `Web Development🌐`
+- 🎉 I find joy in `Travel✈️`, `Reading📖`, playing `Guitar🎸`, and staying active through `Workouts💪`
+- 🧐 For a comprehensive overview, visit my [`Website🌐`](https://andre-j3sus.github.io/) or take a look at my [`Resume📝`](https://www.canva.com/design/DAFqHQqqaGk/Q2N2Mi5I6JUUgpeB4ugMaw/view)
 
-- ⚡ I find joy in `Travel✈️`, `Reading📖`, playing `Guitar🎸`, and staying active through `Workouts💪`
+<!--
+<h3 align="center"> 🤝 Connect with me</h3>
+<div align="center"  class="icons-social" style="margin-left: 10px;">
+  <a style="margin-left: 10px;"  target="_blank" href="https://linkedin.com/in/andre-j3sus"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+	<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/15545640/andr%c3%a9-jesus"><img src="https://skillicons.dev/icons?i=stackoverflow"></a>
+	<a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/andre.j3sus"><img src="https://skillicons.dev/icons?i=instagram"></a>
+	<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/andre_j3sus"><img src="https://skillicons.dev/icons?i=twitter" ></a>
+</div>-->
 
-## 🤝 Connect with me 
-
-<p align="center">
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://linkedin.com/in/andre-j3sus">
-		<img src="https://skillicons.dev/icons?i=linkedin"></a>
-	<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/15545640/andr%c3%a9-jesus">
-		<img src="https://skillicons.dev/icons?i=stackoverflow"></a>
-	<a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/andre.j3sus">
-		<img src="https://skillicons.dev/icons?i=instagram"></a>
-	<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/andre_j3sus">
-		<img src="https://skillicons.dev/icons?i=twitter" ></a>
-      </div>
-</p>
-
-## 🛠️ Skills
+## 🛠️ Tools
 
 <div align="center">
   <p align="center">
-   <img src="https://skillicons.dev/icons?i=kotlin,java,js,ts,python,c,cs&perline=7" />
+   <img src="https://skillicons.dev/icons?i=kotlin,java,js,ts,python,c,cs&perline=7" height="40px"/>
    <br/>
    <b>Programming Languages</b>
    <br/><br/>
-   <img src="https://skillicons.dev/icons?i=spring,nodejs,express,nginx&perline=5" />
+   <img src="https://skillicons.dev/icons?i=spring,nodejs,express,nginx&perline=5" height="40px"/>
    <br/>
    <b>Backend Development</b>
    <br/><br/>
-   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,materialui,webpack&perline=6" />
+   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,materialui,webpack&perline=6" height="40px"/>
    <br/>
    <b>Frontend Development</b>
    <br/><br/>
-   <img src="https://skillicons.dev/icons?i=postgres,mongodb&perline=2" />
+   <img src="https://skillicons.dev/icons?i=postgres,mongodb&perline=2" height="40px"/>
    <br/>
    <b>Databases</b>
    <br/><br/>
-   <img src="https://skillicons.dev/icons?i=docker,gcp,linux,bash,git,github,latex&perline=9" />
+   <img src="https://skillicons.dev/icons?i=docker,gcp,linux,bash,git,github,latex&perline=9" height="40px"/>
    <br/>
    <b>Operating Systems, Cloud Infra & DevOps</b>
    
