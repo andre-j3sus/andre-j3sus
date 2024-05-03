@@ -8,7 +8,7 @@ Welcome to my profile! Here's a glimpse into who I am:
 - 🌱 My ongoing studies focus on `Distributed Systems☁️` and `Cyber-Security🛡️`
 - 🎓 I hold a BSc in Computer Science and Engineering from [ISEL](https://www.isel.pt/en)
 - 🔭 I am currently involved in the development of the [`PHYLOViZ Web Platform🧬`](https://github.com/phyloviz/phyloviz-web-platform)
-- 💬 Feel free to reach out to me for any questions or discussions related to `Web Development🌐`
+- 💬 Feel free to reach out to me for any questions or discussions related to `Full Stack Development🚀`
 - 🎉 I find joy in `Travel✈️`, `Reading📖`, playing `Guitar🎸`, and staying active through `Workouts💪`
 - 🧐 For a comprehensive overview, visit my [`Website🌐`](https://andre-j3sus.github.io/) or take a look at my [`Resume📝`](https://www.canva.com/design/DAFqHQqqaGk/Q2N2Mi5I6JUUgpeB4ugMaw/view)
 
