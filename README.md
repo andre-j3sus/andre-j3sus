@@ -4,10 +4,9 @@
 
 Welcome to my profile! Here's a glimpse into who I am:
 
-- 🔬 I'm currently pursuing my MSc in  Computer Science and Engineering Student at [IST](https://tecnico.ulisboa.pt/en/)
-- 🌱 My ongoing studies focus on `Distributed Systems🖥` and `Cyber-Security🛡️`
+- 🌱 I'm currently pursuing my MSc in  Computer Science and Engineering Student at [IST](https://tecnico.ulisboa.pt/en/)
 - 🎓 I hold a BSc in Computer Science and Engineering from [ISEL](https://www.isel.pt/en)
-- 🔭 Research interests encompass `Distributed Systems🖥` and `Cyber-Security🛡️`, `Cloud Computing ☁` and `Blockchain⛓️`
+- 🔬 My research interests encompass `Distributed Systems🖥`,  `Cyber-Security🛡️` and `Cloud Computing ☁`
 - 💬 Feel free to reach out to me for any questions or discussions related to `Full Stack Development🚀`
 - 🎉 I find joy in `Travel✈️`, `Reading📖`, playing `Guitar🎸`, and staying active through `Workouts💪`
 - 🧐 For a comprehensive overview, visit my [`Website🌐`](https://andre-j3sus.github.io/) or take a look at my [`Resume📝`](https://www.canva.com/design/DAFqHQqqaGk/Q2N2Mi5I6JUUgpeB4ugMaw/view)
