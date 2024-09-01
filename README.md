@@ -6,7 +6,7 @@ Welcome to my profile! Here's a glimpse into who I am:
 
 - 🌱 I'm currently pursuing my MSc in  Computer Science and Engineering Student at [IST](https://tecnico.ulisboa.pt/en/)
 - 🎓 I hold a BSc in Computer Science and Engineering from [ISEL](https://www.isel.pt/en)
-- 🔬 My research interests encompass `Distributed Systems🖥`,  `Cyber-Security🛡️` and `Cloud Computing ☁`
+- 🔬 My research interests encompass `Distributed Systems🖥` and `Cloud Computing ☁`
 - 💬 Feel free to reach out to me for any questions or discussions related to `Full Stack Development🚀`
 - 🎉 I find joy in `Travel✈️`, `Reading📖`, playing `Guitar🎸`, and staying active through `Workouts💪`
 - 🧐 For a comprehensive overview, visit my [`Website🌐`](https://andre-j3sus.github.io/) or take a look at my [`Resume📝`](https://www.canva.com/design/DAFqHQqqaGk/Q2N2Mi5I6JUUgpeB4ugMaw/view)
@@ -28,11 +28,11 @@ Welcome to my profile! Here's a glimpse into who I am:
    <br/>
    <b>Programming Languages</b>
    <br/><br/>
-   <img src="https://skillicons.dev/icons?i=spring,nodejs,express,nginx&perline=5" height="40px"/>
+   <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,jest&perline=5" height="40px"/>
    <br/>
    <b>Backend Development</b>
    <br/><br/>
-   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,materialui,webpack&perline=6" height="40px"/>
+   <img src="https://skillicons.dev/icons?i=html,css,react,remix&perline=4" height="40px"/>
    <br/>
    <b>Frontend Development</b>
    <br/><br/>
@@ -40,9 +40,9 @@ Welcome to my profile! Here's a glimpse into who I am:
    <br/>
    <b>Databases</b>
    <br/><br/>
-   <img src="https://skillicons.dev/icons?i=docker,gcp,linux,bash,git,github,latex&perline=9" height="40px"/>
+   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,bash,git&perline=6" height="40px"/>
    <br/>
-   <b>Operating Systems, Cloud Infra & DevOps</b>
+   <b>Cloud Infra & DevOps</b>
    
   </p> 
   <br/><br/>
