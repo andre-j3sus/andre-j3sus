@@ -24,7 +24,7 @@ Welcome to my profile! Here's a glimpse into who I am:
 
 <div align="center">
   <p align="center">
-   <img src="https://skillicons.dev/icons?i=kotlin,java,js,ts,python,c,cs&perline=7" height="40px"/>
+   <img src="https://skillicons.dev/icons?i=kotlin,java,js,ts,python,c&perline=6" height="40px"/>
    <br/>
    <b>Programming Languages</b>
    <br/><br/>
@@ -40,7 +40,7 @@ Welcome to my profile! Here's a glimpse into who I am:
    <br/>
    <b>Databases</b>
    <br/><br/>
-   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,bash,git&perline=6" height="40px"/>
+   <img src="https://skillicons.dev/icons?i=docker,k8s,gcp,aws,linux,bash,git&perline=8" height="40px"/>
    <br/>
    <b>Cloud Infra & DevOps</b>
    
