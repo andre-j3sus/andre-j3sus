@@ -53,7 +53,6 @@ Welcome to my profile! Here's a glimpse into who I am:
 ## 📊 My GitHub Data
 
 <div align="center">
-  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=andre-j3sus&theme=algolia" alt="7oSkaaa" /></p>
   <p align="center">
     <img alt="andre-j3sus's Github Stats" src="https://github-readme-stats.vercel.app/api?username=andre-j3sus&show_icons=true&count_private=true&theme=algolia" height="192px"/>
   &nbsp;
