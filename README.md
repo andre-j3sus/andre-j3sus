@@ -24,11 +24,11 @@ Welcome to my profile! Here's a glimpse into who I am:
 
 <div align="center">
   <p align="center">
-   <img src="https://skillicons.dev/icons?i=kotlin,java,js,ts,python,c&perline=6" height="40px"/>
+   <img src="https://skillicons.dev/icons?i=js,ts,python,kotlin,java&perline=5" height="40px"/>
    <br/>
    <b>Programming Languages</b>
    <br/><br/>
-   <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,jest&perline=5" height="40px"/>
+   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,jest,spring&perline=5" height="40px"/>
    <br/>
    <b>Backend Development</b>
    <br/><br/>
@@ -40,7 +40,7 @@ Welcome to my profile! Here's a glimpse into who I am:
    <br/>
    <b>Databases</b>
    <br/><br/>
-   <img src="https://skillicons.dev/icons?i=docker,k8s,workers,gcp,aws,linux,bash,git&perline=9" height="40px"/>
+   <img src="https://skillicons.dev/icons?i=docker,k8s,workers,linux,bash,git&perline=9" height="40px"/>
    <br/>
    <b>Cloud Infra & DevOps</b>
    
