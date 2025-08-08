@@ -1,26 +1,28 @@
-<h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> I'm André Jesus!</h1>
+<h1 align="center">
+  Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">  
+  I'm André Jesus!
+</h1>
 
 ## 📌 About Me
 
-Welcome to my profile! Here's a glimpse into who I am:
+Welcome to my profile — here’s a snapshot of who I am:  
 
-- 🌱 I'm currently pursuing my MSc in  Computer Science and Engineering Student at [IST](https://tecnico.ulisboa.pt/en/)
-- 🎓 I hold a BSc in Computer Science and Engineering from [ISEL](https://www.isel.pt/en)
-- 🔬 My research interests encompass `Distributed Systems🖥` and `Cloud Computing ☁`
-- 💬 Feel free to reach out to me for any questions or discussions related to `Full Stack Development🚀`
-- 🎉 I find joy in `Travel✈️`, `Reading📖`, playing `Guitar🎸`, and staying active through `Workouts💪`
-- 🧐 For a comprehensive overview, visit my [`Website🌐`](https://andre-j3sus.github.io/) or take a look at my [`Resume📝`](https://www.canva.com/design/DAFqHQqqaGk/Q2N2Mi5I6JUUgpeB4ugMaw/view)
+- 💼 Currently working as a  `Systems Engineer` at [**Cloudflare**](https://www.cloudflare.com/), contributing to **[Cloudflare Radar 📡](https://radar.cloudflare.com/)** and **[AI Audit 🤖](https://developers.cloudflare.com/ai-audit/)**  
+- 🌱 Finishing my **MSc** in *Computer Science and Engineering* at [IST](https://tecnico.ulisboa.pt/en/)  
+- 🎓 **BSc** in *Computer Science and Engineering* from [ISEL](https://www.isel.pt/en)  
+- 🔬 My research interests include `Distributed Systems 🖥` and `Cloud Computing ☁`   
+- 💬 Always up for chats about `Full Stack Development 🚀`  and related topics  
+- 🎉 I find joy in `Travel ✈️`, `Reading 📖`, `Guitar 🎸`, and `Workouts 💪`  
 
-<!--
-<h3 align="center"> 🤝 Connect with me</h3>
-<div align="center"  class="icons-social" style="margin-left: 10px;">
-  <a style="margin-left: 10px;"  target="_blank" href="https://linkedin.com/in/andre-j3sus"><img src="https://skillicons.dev/icons?i=linkedin"></a>
-	<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/15545640/andr%c3%a9-jesus"><img src="https://skillicons.dev/icons?i=stackoverflow"></a>
-	<a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/andre.j3sus"><img src="https://skillicons.dev/icons?i=instagram"></a>
-	<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/andre_j3sus"><img src="https://skillicons.dev/icons?i=twitter" ></a>
-</div>-->
+<p align="center">
+  <a href="https://andrejesus.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Visit%20My%20Website-blue?style=for-the-badge" alt="Website Button"/>
+  </a>
+</p>
 
-## 🛠️ Tools
+## 🛠️ Tools & Technologies
+
+Here are few tools that I have used in my academic and professional career and that I have some knowledge of how to use them:
 
 <div align="center">
   <p align="center">
@@ -28,11 +30,11 @@ Welcome to my profile! Here's a glimpse into who I am:
    <br/>
    <b>Programming Languages</b>
    <br/><br/>
-   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,jest,spring&perline=5" height="40px"/>
+   <img src="https://skillicons.dev/icons?i=nodejs,fastapi,graphql,jest,spring&perline=10" height="40px"/>
    <br/>
    <b>Backend Development</b>
    <br/><br/>
-   <img src="https://skillicons.dev/icons?i=html,css,react,remix&perline=4" height="40px"/>
+   <img src="https://skillicons.dev/icons?i=html,css,react,remix,vite&perline=5" height="40px"/>
    <br/>
    <b>Frontend Development</b>
    <br/><br/>
@@ -40,24 +42,23 @@ Welcome to my profile! Here's a glimpse into who I am:
    <br/>
    <b>Databases</b>
    <br/><br/>
-   <img src="https://skillicons.dev/icons?i=docker,k8s,workers,linux,bash,git&perline=9" height="40px"/>
+   <img src="https://skillicons.dev/icons?i=docker,k8s,workers,gcp&perline=9" height="40px"/>
    <br/>
    <b>Cloud Infra & DevOps</b>
    
-  </p> 
   <br/><br/>
-  <b>Note:</b> These are just a few tools that I have used in my academic and professional career and that I have some knowledge of how to use them.
+  <i><b>Note:</b> I also have experience with other tools, but these are the ones I work with currently or have worked with more in the past — and I'm a quick learner</i> 😉
   </p>
 </div>
 
-## 📊 My GitHub Data
+## 📊 GitHub Stats
 
 <div align="center">
   <p align="center">
     <img alt="andre-j3sus's Github Stats" src="https://github-readme-stats.vercel.app/api?username=andre-j3sus&show_icons=true&count_private=true&theme=algolia" height="192px"/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andre-j3sus&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="andre-j3sus" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andre-j3sus&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="andre-j3sus" height="192px"/></i>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 </div>
