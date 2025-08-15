@@ -20,7 +20,7 @@ Welcome to my profile — here’s a snapshot of who I am:
   </a>
 </p>
 
-## 🛠️ Tools & Technologies
+## 🛠️ Skills
 
 Here are few tools that I have used in my academic and professional career and that I have some knowledge of how to use them:
 
@@ -41,7 +41,6 @@ Here are few tools that I have used in my academic and professional career and t
    <img src="https://skillicons.dev/icons?i=docker,k8s,workers,gcp,grafana,prometheus,sentry&perline=9" height="40px"/>
    <br/>
    <b>Cloud Infrastructure & DevOps</b>
-   
   <br/><br/>
   <i><b>Note:</b> I also have experience with other tools, but these are the ones I work with currently or have worked with more in the past — and I'm a quick learner</i> 😉
   </p>
