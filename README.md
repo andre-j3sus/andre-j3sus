@@ -30,7 +30,7 @@ Here are few tools that I have used in my academic and professional career and t
    <br/>
    <b>Programming Languages</b>
    <br/><br/>
-   <img src="https://skillicons.dev/icons?i=nodejs,fastapi,graphql,jest,spring&perline=10" height="40px"/>
+   <img src="https://skillicons.dev/icons?i=nodejs,fastapi,graphql,spring,postgres,mongodb&perline=10" height="40px"/>
    <br/>
    <b>Backend Development</b>
    <br/><br/>
@@ -38,13 +38,9 @@ Here are few tools that I have used in my academic and professional career and t
    <br/>
    <b>Frontend Development</b>
    <br/><br/>
-   <img src="https://skillicons.dev/icons?i=postgres,mongodb&perline=2" height="40px"/>
+   <img src="https://skillicons.dev/icons?i=docker,k8s,workers,gcp,grafana,prometheus,sentry&perline=9" height="40px"/>
    <br/>
-   <b>Databases</b>
-   <br/><br/>
-   <img src="https://skillicons.dev/icons?i=docker,k8s,workers,gcp&perline=9" height="40px"/>
-   <br/>
-   <b>Cloud Infra & DevOps</b>
+   <b>Cloud Infrastructure & DevOps</b>
    
   <br/><br/>
   <i><b>Note:</b> I also have experience with other tools, but these are the ones I work with currently or have worked with more in the past — and I'm a quick learner</i> 😉
